@@ -1,2 +1,4 @@
 # Local secrets
 .env.supabase
+.DS_Store
+supabase/.temp
